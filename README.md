@@ -2,12 +2,19 @@
 
 Title: To assess the pricing forecast capability of the models, LSTM, Linear Regression, ARIMA and Random Forest.
 
-Here below the CT298 Project Folders with content as described.
+Herewith the CT298 Project Repository with file structure as described.
 
-Main : Project Report with Appendix and Powerpoint
+Main : Project Report with Appendix and PowerPoint
 
-DataAnalysis
-Modeling
-Result
-source_added
-environment
+DataAnalysis: Data Analysis and Source Dataset Export (ipynb)
+	Subfolders with Sample Source Datasets
+
+Modeling: ARIMA, LSTM, Linear Regression, RandomForest Models (jpynb)
+	Subfolders for ModelTuning and TestRuns samples
+
+Result: Models output result reports
+
+source_added: Exported Source Datasets (main folder for 3 years)
+	Subfolders with 1-2 years / 5years or more
+
+environment: requirements.txt
