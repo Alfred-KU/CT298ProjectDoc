@@ -10,7 +10,7 @@ DataAnalysis: Data Analysis and Source Dataset Export (ipynb)
 	Subfolders with Sample Source Datasets
 
 Modeling: ARIMA, LSTM, Linear Regression, RandomForest Models (jpynb)
-	Subfolders for ModelTuning and TestRuns samples
+	Subfolders for Model Tuning and Test Runs samples
 
 Result: Models output result reports
 
